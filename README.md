@@ -1,5 +1,5 @@
 # resume
-Name : Minsoo Kim
+$\bold{Name}\$ : Minsoo Kim
 
 Education :
 
