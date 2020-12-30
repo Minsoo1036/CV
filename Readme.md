@@ -4,8 +4,8 @@ Name : Minsoo Kim
 
 Education :
 
-  - M.S. Statistics, Inha University, Incheon, Korea, 2021
-  - B.S. Statistics, Inha University, Incheon, Korea, 2019
+  - M.S. Statistics, Inha University, Incheon, Korea, 2021.02
+  - B.S. Statistics, Inha University, Incheon, Korea, 2019.02
 
 
 Experience:
