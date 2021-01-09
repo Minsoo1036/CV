@@ -6,6 +6,7 @@ Education :
 
   - M.S. Statistics, Inha University, Incheon, Korea, 2021.02
   - B.S. Statistics, Inha University, Incheon, Korea, 2019.02
+  (major is statistics, and minor is environmental engineering)
 
 
 Experience:
