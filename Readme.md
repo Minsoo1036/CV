@@ -1,6 +1,8 @@
-# Resume
+# CV
 
 Name : Minsoo Kim
+
+present : PhD student in ECE & BigData Lab, Inha University
 
 Education :
 
