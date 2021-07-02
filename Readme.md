@@ -1,8 +1,13 @@
 # CV
 
+
 **Name** : Minsoo Kim
 
 **Present** : PhD student in ECE, Inha University / Researcher in BigData Lab, Inha University
+
+**Goal** : To develop useful tools and methods for data science.
+
+**Research interest** : XAI, Causal Inference, Time Series Data Analysis
 
 **Education** :
 
