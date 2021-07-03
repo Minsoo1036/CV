@@ -7,7 +7,7 @@
 
 **Goal** : To develop useful tools and methods for data science.
 
-**Research interest** : XAI, Causal Inference, Time Series Data Analysis
+**Research interest** : XAI, Causal Inference, Time Series Analysis
 
 **Education** :
 
