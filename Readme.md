@@ -3,11 +3,9 @@
 
 **Name** : Minsoo Kim
 
-**Present** : PhD student in ECE, Inha University / Researcher in BigData Lab, Inha University
-
 **Goal** : To develop useful tools and methods for data science.
 
-**Research interest** : XAI, Causal Inference, Time Series Analysis
+**Research interest** : XAI, Causal Inference, Time Series Analysis, Bayesian Statistics
 
 **Education** :
 
@@ -20,6 +18,8 @@
   (major is statistics, and minor is environmental engineering)
   
   cumulative GPA : **3.99/4.5**
+  
+  - Pohang Jecheol High School, 2012.02
 
 **Foreign Language Skill** :
 
@@ -27,7 +27,10 @@
 
 
 **Experience**:
-  - Short term researcher of Jungbu Area Epidemiologic Investigation Team, KOSHA, 2020.08~2020.10
+  - Graduate Teaching Assistant: Probability Theory (Spring, 2019)
+  - Graduate Laboratory Assitant: Computational Statistics (fall, 2019)
+  - Graduate Laboratory Assitant: Computational Statistics (fall, 2020)
+  - Short term researcher of Jungbu Area Epidemiologic Investigation Team, KOSHA, 2020.08~2020.10 (work: Tuning BKMR(Bayesian Kernel Machine Regression models) for causal inference)
 
 **Honors and Awards** :
   - The **2nd** place in Poster thesis session of The Korean Statistical Society, 2020.12.18
@@ -38,4 +41,4 @@
 
  
 **Available programming language** :
-  - C, C++, Python, R, LaTex
+  - Python, R, LaTex
