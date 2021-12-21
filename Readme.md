@@ -28,7 +28,7 @@
   - Graduate Teaching Assistant: Probability Theory (Spring, 2019)
   - Graduate Laboratory Assitant: Computational Statistics (fall, 2019)
   - Graduate Laboratory Assitant: Computational Statistics (fall, 2020)
-  - Short term researcher of Jungbu Area Epidemiologic Investigation Team, KOSHA, 2020.08~2020.10 (work: Tuning BKMR(Bayesian Kernel Machine Regression models) for causal inference)
+  - Short term researcher of Jungbu Area Epidemiologic Investigation Team, KOSHA, 2020.08~2020.10 (**work**: Tuning BKMR(Bayesian Kernel Machine Regression models) for causal inference)
 
 **Honors and Awards** :
   - The **2nd** place in Poster thesis session of The Korean Statistical Society, 2020.12.18
