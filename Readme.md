@@ -11,13 +11,11 @@
 
   - M.S. Statistics, Inha University, Incheon, Korea, 2021.02
   
-  cumulative GPA : **4.5/4.5**
   
   
   - B.S. Statistics, Inha University, Incheon, Korea, 2019.02
   (major is statistics, and minor is environmental engineering)
   
-  cumulative GPA : **3.99/4.5**
   
   - Pohang Jecheol High School, 2012.02
 
