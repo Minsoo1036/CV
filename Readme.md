@@ -22,9 +22,11 @@
 **Foreign Language Skill** :
 
   - New TEPS : **347/600**
+  - Opic : IL
 
 
 **Experience**:
+  - Researcher in Bigdata Lab, Inha University (2021.02~2021.12)
   - Graduate Teaching Assistant: Probability Theory (Spring, 2019)
   - Graduate Laboratory Assitant: Computational Statistics (Fall, 2019)
   - Graduate Laboratory Assitant: Computational Statistics (Fall, 2020)
