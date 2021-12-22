@@ -21,7 +21,7 @@
 
 **Foreign Language Skill** :
 
-  - New TEPS : **347/600**
+  - New TEPS : 347/600
   - Opic : IL
 
 
