@@ -3,8 +3,6 @@
 
 **Name** : Minsoo Kim
 
-**Goal** : To develop useful tools and methods for data science.
-
 **Research interest** : XAI, Causal Inference, Time Series Analysis, Bayesian Statistics
 
 **Education** :
