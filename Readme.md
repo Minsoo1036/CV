@@ -12,7 +12,7 @@
   
   
   - B.S. Statistics, Inha University, Incheon, Korea, 2019.02
-  (major is statistics, and minor is environmental engineering)
+  (major is Statistics, and minor is Environmental Engineering)
   
   
   - Pohang Jecheol High School, 2012.02
