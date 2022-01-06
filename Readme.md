@@ -6,10 +6,6 @@
 
 
 
-**Research interest** : XAI, Causal Inference, Time Series Analysis, Bayesian Statistics
-
-
-
 
 **Education** :
 
