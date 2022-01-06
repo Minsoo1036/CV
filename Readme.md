@@ -42,7 +42,7 @@
   
   - Short term researcher of Jungbu Area Epidemiologic Investigation Team, KOSHA, (2020.08~2020.10) 
   
-  (**work**: Research about how to use BKMR(Bayesian Kernel Machine Regression models) in practice for the purpose of causal inference)
+  (**work**: Research about how to use BKMR (Bayesian Kernel Machine Regression models) in practice for the purpose of causal inference)
   
   
   - Graduate Laboratory Assitant: Computational Statistics (Fall, 2019)
