@@ -74,7 +74,7 @@
   (**Goal**: To predict the demand for SDS company cafeterias and the defective rate in the manufacture process)
 
 
-  - The **3rd** place in POSCO Industrial AI Solution Challenge Contest, 2018.09.19
+  - The **Excellence Award** place in POSCO Industrial AI Solution Challenge Contest, 2018.09.19
   
   (**Goal**: To forecast the raw material prices for steel during August)
 
