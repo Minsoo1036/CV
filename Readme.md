@@ -3,7 +3,13 @@
 
 **Name** : Minsoo Kim
 
+
+
+
 **Research interest** : XAI, Causal Inference, Time Series Analysis, Bayesian Statistics
+
+
+
 
 **Education** :
 
@@ -20,10 +26,14 @@
   
   - Pohang Jecheol High School, 2012.02
 
+
+
+
 **Foreign Language Skill** :
 
   - New TEPS : 347/600
   - Opic : IL
+
 
 
 
@@ -43,6 +53,7 @@
  
  
   - Graduate Teaching Assistant: Probability Theory (Spring, 2019)
+
 
 
 
