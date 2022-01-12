@@ -57,28 +57,28 @@
   - The **2nd** place in Poster thesis session of The Korean Statistical Society, 2020.12.18
   
   (**Title**: Evaluating mask policy of the Korean government using Bayesian Structural Time Series Models)
-  
+  <br>
   
   - The **5th** place in COVID19 Data Visualization Contest of DACON, 2020.05.25
   
   (Analyzing network composed of the confirmed cases and Implementing statistical analysis to investigate the effect of factors to the daily confirmed cases.)
-  
+  <br>
   
   - The **2nd** place in Poster thesis session of The Korean Statistical Society, 2019.11.09
   
   (**Title**: Bias amplification for non-Gaussian data in environmental epidemiology)
-  
+  <br>
   
   - The **3rd** place in Data Analysis section of SAMSUNG SDS Brightics Academy Contest, 2019.10.14
   
   (**Goal**: To predict the demand for SDS company cafeterias and the defective rate in the manufacture process)
-
+  <br>
 
   - The **Excellence Award** in POSCO Industrial AI Solution Challenge Contest, 2018.09.19
   
   (**Goal**: To forecast the raw material prices for steel during August)
-
-
+  <br>
+  <br>
 
 **Available programming language** :
   - Python, R, SQL, LaTex
