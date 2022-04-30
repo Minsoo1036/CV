@@ -33,6 +33,10 @@
 
 
 **Experience** :
+
+  - Data Scientist in KoreaPDS (2022.02~ )
+  
+  
   - Researcher in Bigdata Lab, Inha University (2021.02~2021.12)
    
    
