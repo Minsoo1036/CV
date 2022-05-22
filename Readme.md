@@ -85,3 +85,11 @@
 
 **Available programming language** :
   - Python, R, SQL, LaTex
+
+**Homepage:
+
+linkedin :  https://www.linkedin.com/in/minsoo-kim-41a0451b9/?originalSubdomain=kr
+
+blog : https://blog.naver.com/key1036
+
+
