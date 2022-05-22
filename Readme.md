@@ -86,7 +86,7 @@
 **Available programming language** :
   - Python, R, SQL, LaTex
 
-**Homepage:
+**Social media** :
 
 linkedin :  https://www.linkedin.com/in/minsoo-kim-41a0451b9/?originalSubdomain=kr
 
