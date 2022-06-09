@@ -4,7 +4,7 @@
 **Name** : Minsoo Kim
 
 
-I am interested in the practical use of data science or statistics.
+I am interested in the practical use of data science or statistics. I work as a data scientist at KoreaPDS now.
 
 
 **Education** :
