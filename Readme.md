@@ -4,7 +4,7 @@
 **Name** : Minsoo Kim
 
 
-
+I am interested in the practical use of data science or statistics.
 
 
 **Education** :
@@ -90,7 +90,7 @@
 
 linkedin :  https://www.linkedin.com/in/minsoo-kim-41a0451b9/?originalSubdomain=kr
 
-blog : https://raniche-note.tistory.com/
+blog : https://blog.naver.com/key1036
 
 facebook : https://www.facebook.com/minsoo1036
 
