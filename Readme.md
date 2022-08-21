@@ -94,6 +94,6 @@ blog(kor) : https://raniche-note.tistory.com/
 
 blog(eng) : continued...
 
-facebook : https://www.facebook.com/minsoo1036
+Instagram : https://www.instagram.com/minsoo1036/
 
 
