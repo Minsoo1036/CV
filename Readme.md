@@ -90,7 +90,9 @@ I am interested in the practical use of data science or statistics. I work as a 
 
 linkedin :  https://www.linkedin.com/in/minsoo-kim-41a0451b9/?originalSubdomain=kr
 
-blog(kor) : https://raniche-note.tistory.com/
+blog(kor,academy) : https://raniche-note.tistory.com/
+
+blog(kor,hobby) : https://blog.naver.com/key1036 
 
 blog(eng) : continued...
 
