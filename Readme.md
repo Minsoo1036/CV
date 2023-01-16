@@ -64,7 +64,7 @@ I am interested in the practical use of data science or statistics. I work as a 
   
   - The **5th** place in COVID19 Data Visualization Contest of DACON, 2020.05.25
   
-  (Analyzing network composed of the confirmed cases and Implementing statistical analysis to investigate the effect of factors to the daily confirmed cases.)
+  (**Goal**: Analyzing network composed of the confirmed cases and Implementing statistical analysis to investigate the effect of factors to the daily confirmed cases.)
   <br>
   
   - The **2nd** place in Poster thesis session of The Korean Statistical Society, 2019.11.09
