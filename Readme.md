@@ -94,7 +94,7 @@ blog(kor,academy) : https://raniche-note.tistory.com/
 
 blog(kor,hobby) : https://blog.naver.com/key1036 
 
-blog(eng) : continued...
+blog(eng) : to be continued...
 
 Instagram : https://www.instagram.com/minsoo1036/
 
