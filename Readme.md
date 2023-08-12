@@ -92,7 +92,7 @@ linkedin :  https://www.linkedin.com/in/minsoo-kim-41a0451b9/?originalSubdomain=
 
 blog(kor) : https://raniche-note.tistory.com/
 
-blog(personal) : https://blog.naver.com/key1036
+instagram : https://www.instagram.com/minsoo1036/
 
 blog(eng) : to be continued...
 
