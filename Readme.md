@@ -88,7 +88,7 @@ I am interested in the practical use of data science or statistics. I work as a 
 
 **Social media** :
 
-linkedin :  https://www.linkedin.com/in/minsoo-kim-41a0451b9/?originalSubdomain=kr
+linkedin :  https://www.linkedin.com/in/minsoo-kim-41a0451b9/
 
 blog(kor) : https://raniche-note.tistory.com/
 
