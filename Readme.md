@@ -22,12 +22,15 @@ I am interested in the practical use of data science or statistics. I work as a 
   - Pohang Jecheol High School, 2009.02~2012.02
 
 
+**Thesis**
+- Test for the existence of unobserved confounder in environmental epidemiology and its applications
+  https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=aaa7d71a3c7ab7aeffe0bdc3ef48d419
 
 
 **Foreign Language Skill** :
 
   - New TEPS : 347/600
-  - Opic : IL
+  - Opic : IM1
 
 
 
